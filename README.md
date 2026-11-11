@@ -6,3 +6,4 @@
 ## Labs
 * Lab 1: Intro to Behavioral TV Data
 * Lab 2: What Did the Campaign Deliver?
+* Lab 3: Millions of TVs, Who Is Watching?
